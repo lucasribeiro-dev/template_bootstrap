@@ -1,0 +1,47 @@
+  #sticky-footer {
+    flex-shrink: none;
+  }
+
+  .carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  body {
+    padding-top: 50px;
+    height: 100%;
+    background-color:rgba(235, 232, 232, 0.178);
+  }
+  
+  .bg-image-full {
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+  }
+  .size1{
+      text-align: center;
+      color: #fff;
+      margin-bottom: 3rem;
+  }
+
+  .py-5{
+    padding-top: 3rem!important;
+  }
+
+.area{
+    background-color:rgba(172, 172, 172, 0.250);
+
+}
+  #text2{
+    text-align: center;
+    color: #fff;
+  }
+
+
